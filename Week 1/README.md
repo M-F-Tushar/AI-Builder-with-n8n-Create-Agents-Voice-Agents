@@ -10,6 +10,7 @@
 3. [Day 2: Understanding Agentic AI](#day-2-understanding-agentic-ai)
 4. [Day 3: Integrations - Google Services](#day-3-integrations-google-services)
 5. [Day 4: Data, JSON, and Advanced Integrations](#day-4-data-json-and-advanced-integrations)
+6. [Day 5: Business Project - Portfolio Rebalancer](#day-5-business-project-portfolio-rebalancer).
 
 ---
 
